@@ -3,3 +3,5 @@ As the name implies,
 I'm just testing how to commit in git!
 
 I just added a line here!
+
+And now I added another line on GitHub!
